@@ -1,0 +1,17 @@
+{
+	"required": true,
+	"package": "io.github.umoshii.template.mixin",
+	"compatibilityLevel": "JAVA_25",
+
+	"mixins": [
+		"ExampleMixin"
+	],
+
+	"injectors": {
+		"defaultRequire": 1
+	},
+
+	"overwrites": {
+		"requireAnnotations": true
+	}
+}
