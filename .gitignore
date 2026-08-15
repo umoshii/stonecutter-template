@@ -33,4 +33,4 @@ replay_*.log
 *.jfr
 
 # stonecutter
-versions/*
+/versions/
