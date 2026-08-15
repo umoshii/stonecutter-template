@@ -96,6 +96,8 @@ java {
 }
 
 tasks.jar {
+	destinationDirectory.set(rootProject.file("build/libs"))
+
 	val projectName = project.name
 	inputs.property("projectName", projectName)
 
