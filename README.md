@@ -1,4 +1,4 @@
-<div style="text-align: center">
+<div align="center">
 
 ![](https://i.pinimg.com/originals/b2/d8/32/b2d83267ffee58244f9a161c1b17b677.gif)
 ### autumn's fabric stonecutter mod template
@@ -22,4 +22,4 @@ includes dev-auth by default
 
 #
 
-<p style="text-align: center">by autumn/umoshi 🐾</p>
+<p align="center">by autumn/umoshi 🐾</p>
