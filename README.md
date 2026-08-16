@@ -20,6 +20,11 @@ includes dev-auth by default
 - change entrypoints in `fabric.mod.json`
 - bark
 
+### what to know
+- lang files are written into `src/main/lang` (with object support!), which are then flattened, saved into, and sourced from `versions/<version>/build/generated/resources/assets/<modid>/lang`
+- mod deps should always be specified in `stonecutter.properties.toml`
+- always refresh to the vcs-version when committing changes to avoid noise in commit diffs
+
 #
 
 <p align="center">by autumn/umoshi 🐾</p>
