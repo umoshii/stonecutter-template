@@ -18,6 +18,7 @@ includes dev-auth by default
 - change `rootProject.name` in `gradle.properties`
 - change group/package names
 - change entrypoints in `fabric.mod.json`
+- rename `template.mixins.json` to match your modid
 - bark
 
 ### what to know
